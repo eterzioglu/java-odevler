@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="hafta5odev1.entities.abstracts.Entity"/>
+    <fullyQualifiedTypeName name="hafta5odev1.business.abstracts.UserService"/>
+    <fullyQualifiedTypeName name="hafta5odev1.dataAccess.abstracts.UserDao"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.Pattern"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xpath.regex.Match"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="hafta5odev1.business.concretes.UserManager"/>
+    <fullyQualifiedTypeName name="hafta5odev1.dataAccess.concretes.HibernateUserDao"/>
+    <fullyQualifiedTypeName name="hafta5odev1.entities.concretes.User"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="hafta5odev1.core.abstracts.AuthService"/>
+    <fullyQualifiedTypeName name="hafta5odev1.core.AuthService"/>
+    <fullyQualifiedTypeName name="hafta5odev1.googleAuth.GoogleAuthManager"/>
+    <fullyQualifiedTypeName name="hafta5odev1.core.GoogleAuthAdapter"/>
+</qualifiedTypeNameHistroy>
